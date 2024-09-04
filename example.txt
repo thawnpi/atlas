@@ -1,0 +1,5 @@
+#!/bin/bash
+
+touch sample.txt
+echo "Thsis is just a test." >> sample.txt
+cat sample.txt
